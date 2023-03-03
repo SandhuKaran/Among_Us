@@ -1,6 +1,6 @@
 # Among_Us
 
-Description -
+DESCRIPTION -
 This is a replica of Among-us game made as precise as we could in a limited time frame.
 Game is made entirely in elm
 
